@@ -1,0 +1,7 @@
+C:\Users\farvf\source\repos\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\farvf\source\repos\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\farvf\source\repos\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\farvf\source\repos\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\farvf\source\repos\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\farvf\source\repos\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\farvf\source\repos\Timer\Timer\obj\Debug\Timer.pdb

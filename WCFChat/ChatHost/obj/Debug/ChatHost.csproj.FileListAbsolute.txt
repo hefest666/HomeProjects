@@ -1,0 +1,10 @@
+C:\Users\farvf\source\repos\WCFChat\ChatHost\bin\Debug\ChatHost.exe.config
+C:\Users\farvf\source\repos\WCFChat\ChatHost\bin\Debug\ChatHost.exe
+C:\Users\farvf\source\repos\WCFChat\ChatHost\bin\Debug\ChatHost.pdb
+C:\Users\farvf\source\repos\WCFChat\ChatHost\bin\Debug\WCFChat.dll
+C:\Users\farvf\source\repos\WCFChat\ChatHost\bin\Debug\WCFChat.pdb
+C:\Users\farvf\source\repos\WCFChat\ChatHost\bin\Debug\WCFChat.dll.config
+C:\Users\farvf\source\repos\WCFChat\ChatHost\obj\Debug\ChatHost.csprojResolveAssemblyReference.cache
+C:\Users\farvf\source\repos\WCFChat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+C:\Users\farvf\source\repos\WCFChat\ChatHost\obj\Debug\ChatHost.exe
+C:\Users\farvf\source\repos\WCFChat\ChatHost\obj\Debug\ChatHost.pdb
